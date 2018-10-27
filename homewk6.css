@@ -1,0 +1,45 @@
+body{
+    background-color: blanchedalmond;
+}
+button, 
+form {
+	margin: 5px;
+}
+
+button {color: blue}
+
+.jumbotron {
+	font-weight: bold;
+	background-color: darkcyan;
+	color: floralwhite;
+
+}
+
+.container .jumbotron, .container-fluid .jumbotron {
+	padding-top: 3px;
+	padding-bottom: 5px;
+}
+
+
+button, html input[type=button], input[type=reset], input[type=submit] {
+	background-color: #3B5998;
+	border: #3B5998;
+	color: white;
+}
+
+input{
+	background-color: #dfdf88 ;
+}
+
+
+/*updates gif photo to show left to right versus just vertical */
+.item {
+	padding: 10px;
+	display: block;
+}
+
+p{
+	background-color: #563d7c;
+	color: #cdbfe3;	
+	padding: 0px;
+}
